@@ -15,9 +15,9 @@ Make sure that your Project Background satisfies the following criteria:
 ## Requirements Elicitation
 Make sure that your Requriements Elicitation satisfies the following criteria:
 
-- [ ] Explain your interview methods and roles/responsibilities during the meeting with industry partner. 
-- [ ] The explained interview contains no typos or spelling errors. 
-- [ ] The document is well organized/structured and also lists their questions and strategies to help them understanding the requirements of the system.
+- [x] Explain your interview methods and roles/responsibilities during the meeting with industry partner. 
+- [x] The explained interview contains no typos or spelling errors. 
+- [x] The document is well organized/structured and also lists their questions and strategies to help them understanding the requirements of the system.
 
 ## Meetings
 Make sure your meetings (team meetings, supervision meetings and meetings with industry partners) are documented in Confluence (and only). 
